@@ -1,0 +1,9 @@
+amplpy>=0.16,<0.19
+numpy
+pandas
+matplotlib
+networkx
+folium
+nbformat
+gilp
+# Notebook 13 installs PyVRP separately; it is unchanged by this migration.
